@@ -1,0 +1,10 @@
+# Ignore all CSV files
+*films_*.csv
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore .pytest_cache directories
+.pytest_cache/
+
+.DS_Store
